@@ -5,7 +5,7 @@ import MaterialIcon from '@material/react-material-icon';
 
 import {
   RestaurantCard,
-//   Modal,
+  Modal,
 //   Map,
   ImageCard,
 //   Loader,
