@@ -4,7 +4,7 @@ import TextField, { Input } from '@material/react-text-field';
 import MaterialIcon from '@material/react-material-icon';
 
 import {
-//   RestaurantCard,
+  RestaurantCard,
 //   Modal,
 //   Map,
   ImageCard,
