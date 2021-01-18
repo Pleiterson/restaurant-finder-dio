@@ -1,17 +1,17 @@
 import React, { useState } from 'react';
 // import { useSelector } from 'react-redux';
 import TextField, { Input } from '@material/react-text-field';
-// import MaterialIcon from '@material/react-material-icon';
+import MaterialIcon from '@material/react-material-icon';
 
-// import {
+import {
 //   RestaurantCard,
 //   Modal,
 //   Map,
-//   ImageCard,
+  ImageCard,
 //   Loader,
 //   Text,
 //   ImageSkeleton as Skeleton,
-// } from '../../components';
+} from '../../components';
 import logo from '../../assets/logo.svg';
 import { Container, Search, Logo, Title, Carousel, Wrapper } from './styles';
 

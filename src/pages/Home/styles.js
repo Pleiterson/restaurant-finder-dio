@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-// import Slider from 'react-slick';
+import Slider from 'react-slick';
 // import { Text } from '../../components';
 
 export const Container = styled.aside`
