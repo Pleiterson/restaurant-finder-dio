@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 
-import Text from '../Text';
-import ImageSkeleton from '../ImageSkeleton';
+// import Text from '../Text';
+// import ImageSkeleton from '../ImageSkeleton';
 
 export const Card = styled.div`
   min-width: 90px;

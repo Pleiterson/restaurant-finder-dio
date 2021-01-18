@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import ReactStars from 'react-rating-stars-component';
 
 import { Restaurant, RestaurantInfo, Content, RestaurantPhoto } from './styles';
-import Text from '../Text';
-import ImageSkeleton from '../ImageSkeleton';
+// import Text from '../Text';
+// import ImageSkeleton from '../ImageSkeleton';
 
 const ResturantCard = ({ restaurant, onClick }) => {
   const [imageLoaded, setImageLoaded] = useState(false);
