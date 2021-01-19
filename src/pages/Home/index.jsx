@@ -8,9 +8,9 @@ import {
   Modal,
   Map,
   ImageCard,
-//   Loader,
+  Loader,
 //   Text,
-//   ImageSkeleton as Skeleton,
+  ImageSkeleton as Skeleton,
 } from '../../components';
 import logo from '../../assets/logo.svg';
 import { Container, Search, Logo, Title, Carousel, Wrapper } from './styles';
