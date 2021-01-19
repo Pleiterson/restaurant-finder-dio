@@ -9,7 +9,7 @@ import {
   Map,
   ImageCard,
   Loader,
-//   Text,
+  Text,
   ImageSkeleton as Skeleton,
 } from '../../components';
 import logo from '../../assets/logo.svg';

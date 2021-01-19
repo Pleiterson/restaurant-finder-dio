@@ -7,7 +7,7 @@ const theme = {
     },
     fonts: {
       regular: 'Roboto, sans-serif',
-    //   fontFamily: 'Roboto, sans-serif',
+      fontFamily: 'Roboto, sans-serif',
     },
   };
   
